@@ -1,6 +1,7 @@
 # 👋 ¡Hola! Soy Aythami Lorenzo
 
 🎓 Estudiante de Ciencia e Ingeniería de Datos en la ULPGC
+
 🚀 Apasionado por la inteligencia artificial, los datos y la programación limpia  
 💻 Aprendiendo Python, R, C, Java y desarrollo de proyectos reales  
 📊 Explorando machine learning, análisis de datos, y estructuras de sistemas  
