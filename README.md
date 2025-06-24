@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Aythami Lorenzo
 
-🎓 Estudiante de Ciencia e Ingeniería de Datos  
+🎓 Estudiante de Ciencia e Ingeniería de Datos en la ULPGC
 🚀 Apasionado por la inteligencia artificial, los datos y la programación limpia  
 💻 Aprendiendo Python, R, C, Java y desarrollo de proyectos reales  
 📊 Explorando machine learning, análisis de datos, y estructuras de sistemas  
@@ -36,9 +36,10 @@
 ---
 
 ## 🔗 Social
-
+- 📬 Mi correo electrónico: aythamilorenzo06@gmail.com
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aythamilorenzo)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/thamii/)
+
 
 ---
 
