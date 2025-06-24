@@ -37,6 +37,7 @@
 
 ## 🔗 Social
 - 📬 Mi correo electrónico: aythamilorenzo06@gmail.com
+  
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aythamilorenzo)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/thamii/)
 
