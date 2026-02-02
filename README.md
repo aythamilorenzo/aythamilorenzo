@@ -6,29 +6,18 @@
 
 ## 👤 Sobre mí 
  
-🎓 Actualmente cursando mi **segundo año** en Ciencia e Ingeniería de Datos en la ULPGC
+🎓 Actualmente cursando mi **2º año** en **Ciencia e Ingeniería de Datos** en la ULPGC (Universidad de Las Palmas de Gran Canaria)
 
-🚀 Apasionado por la inteligencia artificial, los datos y la programación limpia  
-💻 Aprendiendo Python, R, Java y desarrollo de proyectos reales  
-📊 Explorando machine learning, análisis de datos, y estructuras de sistemas  
-
-
-
-## 💻 Tecnologías 
+🚀 Apasionado por la **inteligencia artificial**, los **datos** y la **programación limpia**  
+💻 Aprendiendo **Python**, **R**, **Java** y **desarrollo de proyectos reales**  
+📊 Explorando **machine learning**, **análisis de datos**, y **estructuras de sistemas**  
 
 
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![StarUML](https://img.shields.io/badge/StarUML-AA1E22?style=for-the-badge&logo=staruml&logoColor=white)
-[Shiny](https://img.shields.io/badge/Shiny-75AADB?style=for-the-badge&logo=r&logoColor=white)
+
+## 🛠️ Tecnologías y herramientas
+
+
+[![Mis Habilidades](https://skillicons.dev/icons?i=r,py,java,git,github,md,vscode,idea,windows,linux,oracle&perline=4)](https://skillicons.dev)
 
 
 
