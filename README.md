@@ -37,17 +37,14 @@
 ---
 
 
-## 💬 ¿Te interesa colaborar?
+## ⚙️ Github Analytics
 
-Estoy abierto a:
-- Colaboraciones en ciencia de datos, ML o software educativo
-- Aprender con otros que estén en el camino de los datos
-- Mejorar día a día haciendo código útil
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical&hide_border=false" alt="Estadísticas" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=radical&hide_border=false" alt="Lenguajes más usados" />
+</p>
 
----
 
-**¡Gracias por pasarte por mi perfil!**  
-_Si te interesa lo que hago, sígueme o échale un ojo a mis proyectos 👇_
 
-![Analytics](https://github-readme-stats.vercel.app/api?username=aythamilorenzo&show_icons=true&theme=radical)
 
