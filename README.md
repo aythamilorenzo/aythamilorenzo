@@ -27,15 +27,6 @@
 
 ---
 
-## 🧩 ¿Qué hay en mis repos?
-
-👀 Revisa mis carpetas de proyectos para encontrar:
-- Scripts útiles
-- Proyectos de clase convertidos en proyectos reales
-- Mini apps, bots, análisis y experimentos
-
----
-
 ## 🔗 Social
 - 📬 Mi correo electrónico: aythamilorenzo06@gmail.com
   
@@ -57,4 +48,6 @@ Estoy abierto a:
 
 **¡Gracias por pasarte por mi perfil!**  
 _Si te interesa lo que hago, sígueme o échale un ojo a mis proyectos 👇_
+
+![Analytics](https://github-readme-stats.vercel.app/api?username=aythamilorenzo&show_icons=true&theme=radical)
 
