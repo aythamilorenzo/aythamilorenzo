@@ -2,12 +2,11 @@
 
 # 👋 ¡Hola! Soy Aythami Lorenzo
 
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
 ## 👤 Sobre mí 
  
-🎓 Actualmente cursando mi segundo año en Ciencia e Ingeniería de Datos en la ULPGC
+🎓 Actualmente cursando mi **segundo año** en Ciencia e Ingeniería de Datos en la ULPGC
 
 🚀 Apasionado por la inteligencia artificial, los datos y la programación limpia  
 💻 Aprendiendo Python, R, Java y desarrollo de proyectos reales  
@@ -15,10 +14,15 @@
 
 ---
 
+## 💻 Tecnologías
+
+
+
+
+---
+
 ## 🔗 Social
-- Correo electrónico: aythamilorenzo06@gmail.com
-- Correo académico: aythami.lorenzo102@alu.ulpgc.es
-  
+
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/thamii/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aythamilorenzo)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aythamilorenzo06@gmail.com)
