@@ -1,3 +1,5 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aythamilorenzo&label=Profile%20views&color=0e75b6&style=flat" alt="aythamilorenzo" /> </p>
+
 # 👋 ¡Hola! Soy Aythami Lorenzo
 
 🎓 Estudiante de Ciencia e Ingeniería de Datos en la ULPGC
