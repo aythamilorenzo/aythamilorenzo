@@ -39,10 +39,9 @@
 
 ## ⚙️ Github Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical&hide_border=false" alt="Estadísticas" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=radical&hide_border=false" alt="Lenguajes más usados" />
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aythamilorenzo&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aythamilorenzo&layout=compact&theme=vision-friendly-dark" />
 </p>
 
 
