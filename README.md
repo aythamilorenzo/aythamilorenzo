@@ -36,7 +36,7 @@
 
 <p align="center">
   <a href="https://github.com/aythamilorenzo">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aythamilorenzo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aythamilorenzo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&exclude_repo=HotelWebLasLongueras"/>
   </a>
   <a href="https://github.com/aythamilorenzo">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aythamilorenzo&layout=compact&langs_count=8&theme=algolia"/>
